@@ -1,7 +1,7 @@
 # Create new sub-loop in existing asyncio event loop
 
 
-```
+```python
 # coding: utf-8
 
 import asyncio
